@@ -19,3 +19,6 @@ How to use?
 
 note: orang_sama = same person
 Orang_berbeda = different person
+
+Download from sourceforge.
+https://sourceforge.net/projects/compare-face-recognition/
